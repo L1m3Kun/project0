@@ -1,2 +1,2 @@
-# project0speaker
-Using Speaker, HC-SR04 and Arduino
+# project0
+## Speaker, HC-SR04, Arduino
